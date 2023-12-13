@@ -26,7 +26,7 @@ I'm enthusiastic about staying up-to-date with the latest developments in cloud 
 
 ## 📫 Let's Connect
 
-- LinkedIn: [Your LinkedIn Profile](link-to-linkedin)
+- LinkedIn: [Your LinkedIn Profile](www.linkedin.com/in/abhishikthavls)
 - IG: [abhishiktha_8](link-to-ig)
 - FB: [Vls Abhishiktha](link-to-fb)
 - Twitter: [Your Twitter Handle](link-to-twitter)
@@ -34,7 +34,7 @@ I'm enthusiastic about staying up-to-date with the latest developments in cloud 
 ## 🌐 Online Presence
 
 - [Personal Blog](link-to-blog): Share your insights and experiences in tech.
-- [Portfolio Website](link-to-portfolio): Explore more about my work and projects.
+- [Portfolio Website](www.abhishikthadevops.com): Explore more about my work and projects.
 
 ## 🏆 Achievements
 
