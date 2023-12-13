@@ -18,7 +18,7 @@
    Description of the project and your role in it.
 ## 📚 Education
 
-- Bachelor of Computer Applications (BCA) in [KBN College] - Krishna University, 2019
+- Bachelor of Computer Applications (BCA) in [KBN College] - Krishna University, 74%, 2019.
 
 ## 🌱 Interests
 
@@ -27,8 +27,8 @@ I'm enthusiastic about staying up-to-date with the latest developments in cloud 
 ## 📫 Let's Connect
 
 - LinkedIn: [Your LinkedIn Profile](link-to-linkedin)
-- IG: [Your IG Name](link-to-ig)
-- FB: [Your FB Name](link-to-fb)
+- IG: [abhishiktha_8](link-to-ig)
+- FB: [Vls Abhishiktha](link-to-fb)
 - Twitter: [Your Twitter Handle](link-to-twitter)
 
 ## 🌐 Online Presence
