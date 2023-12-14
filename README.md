@@ -11,8 +11,9 @@
 
 ## 🛠️ Projects
 
-### Project 1: [Project Name 1](link-to-repo)
-   Description of the project and your role in it.
+### Project 1: [Serverless Web Application](link-to-repo)
+   Description: Build a serverless web application using AWS Lambda, API Gateway, and DynamoDB. Use Python for Lambda functions and create a simple front-end using                 HTML, CSS, and JavaScript
+   Skills: AWS Lambda, API Gateway, DynamoDB, Python, HTML/CSS/JavaScript
 
 ### Project 2: [Project Name 2](link-to-repo)
    Description of the project and your role in it.
@@ -26,7 +27,7 @@ I'm enthusiastic about staying up-to-date with the latest developments in cloud 
 
 ## 📫 Let's Connect
 
-- LinkedIn: [Your LinkedIn Profile](www.linkedin.com/in/abhishikthavls)
+- LinkedIn: [Abhishiktha Vls](www.linkedin.com/in/abhishikthavls)
 - IG: [abhishiktha_8](link-to-ig)
 - FB: [Vls Abhishiktha](link-to-fb)
 - Twitter: [Your Twitter Handle](link-to-twitter)
