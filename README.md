@@ -27,7 +27,7 @@ I'm enthusiastic about staying up-to-date with the latest developments in cloud 
 
 ## 📫 Let's Connect
 
-- LinkedIn: [Abhishiktha Vls](www.linkedin.com/in/abhishikthavls)
+- LinkedIn: [Abhishiktha Vls](www.linkedin.com/in/abhishikthadevops)
 - IG: [abhishiktha_8](link-to-ig)
 - FB: [Vls Abhishiktha](link-to-fb)
 - Twitter: [Your Twitter Handle](link-to-twitter)
