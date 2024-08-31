@@ -15,11 +15,13 @@
    Description: Build a serverless web application using AWS Lambda, API Gateway, and DynamoDB. Use Python for Lambda functions and create a simple front-end using                 HTML, CSS, and JavaScript
    Skills: AWS Lambda, API Gateway, DynamoDB, Python, HTML/CSS/JavaScript
 
-### Project 2: [Project Name 2](link-to-repo)
-   Description of the project and your role in it.
+### Project 2: [CICD Pipeline](link-to-repo)
+   Description: Implement a CI/CD pipeline for a Python application using AWS CodePipeline, CodeBuild, and
+CodeDeploy. Automate the testing and deployment process for your application.
+Skills: AWS CodePipeline, AWS CodeBuild, AWS CodeDeploy, Python.
 ## 📚 Education
 
-- Bachelor of Computer Applications (BCA) in [KBN College] - Krishna University, 74%, 2019.
+- Bachelor of Computer Applications (BCA) in [KBN College] - Krishna University, 74%.
 
 ## 🌱 Interests
 
